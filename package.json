@@ -1,0 +1,25 @@
+{
+  "name": "jestrpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mpergolatti/jestrpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mpergolatti/jestrpg/issues"
+  },
+  "homepage": "https://github.com/Mpergolatti/jestrpg#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
